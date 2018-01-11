@@ -1,0 +1,552 @@
+CountryName,CountryCode,IndicatorName,IndicatorCode,Year,Value
+United States,USA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1960,84.9872
+United States,USA,Age dependency ratio (% of working-age population),SP.POP.DPND,1960,66.52484436091859
+United States,USA,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,1960,15.2302639565011
+United States,USA,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,1960,51.294580404417495
+United States,USA,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1960,1.26126148522724
+United States,USA,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1960,5961000000.0
+United States,USA,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1960,219000000.0
+United States,USA,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,1960,23.7
+United States,USA,Changes in inventories (current LCU),NE.GDI.STKB.CN,1960,3200000000.0
+United States,USA,Changes in inventories (current US$),NE.GDI.STKB.CD,1960,3200000000.0
+United States,USA,CO2 emissions (kg per 2005 US$ of GDP),EN.ATM.CO2E.KD.GD,1960,1.03339670327694
+United States,USA,CO2 emissions (kt),EN.ATM.CO2E.KT,1960,2890696.1
+United States,USA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1960,15.999779156588499
+United States,USA,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,1960,27.713426340714197
+United States,USA,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1960,21.8127616389699
+United States,USA,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1960,630540.65
+United States,USA,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,1960,44.372700748446
+United States,USA,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1960,1282679.93
+United States,USA,CO2 emissions from manufacturing industries and construction (% of total fuel combustion),EN.CO2.MANF.ZS,1960,27.3653597280885
+United States,USA,"CO2 emissions from other sectors, excluding residential buildings and commercial and public services (% of total fuel combustion)",EN.CO2.OTHX.ZS,1960,1.88930130693858
+United States,USA,CO2 emissions from residential buildings and commercial and public services (% of total fuel combustion),EN.CO2.BLDG.ZS,1960,19.3840038681969
+United States,USA,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1960,31.781808955981198
+United States,USA,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1960,918715.512
+United States,USA,CO2 emissions from transport (% of total fuel combustion),EN.CO2.TRAN.ZS,1960,23.6475532232604
+United States,USA,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1960,2.83596497084176
+United States,USA,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1960,3.17480629117575
+United States,USA,Consumer price index (2010 = 100),FP.CPI.TOTL,1960,13.572165966081
+United States,USA,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,1960,9.5
+United States,USA,DEC alternative conversion factor (LCU per US$),PA.NUS.ATLS,1960,1.0
+United States,USA,Discrepancy in expenditure estimate of GDP (current LCU),NY.GDP.DISC.CN,1960,99999999.999939
+United States,USA,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1960,4049.7866287340003
+United States,USA,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,1960,9.07051454396076
+United States,USA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,1960,53.912007192886115
+United States,USA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,1960,18.4398990094776
+United States,USA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,1960,21.1409828193563
+United States,USA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,1960,0.0692777977163337
+United States,USA,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1960,6.42257705904494
+United States,USA,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,1960,81.4755670712874
+United States,USA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1960,0.0152561215187594
+United States,USA,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1960,122000000.0
+United States,USA,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,1960,5.34081618748347
+United States,USA,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1960,5641.740755295539
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,1960,4.96963003865268
+United States,USA,Exports of goods and services (current LCU),NE.EXP.GNFS.CN,1960,27000000000.0
+United States,USA,Exports of goods and services (current US$),NE.EXP.GNFS.CD,1960,27000000000.0
+United States,USA,External balance on goods and services (% of GDP),NE.RSB.GNFS.ZS,1960,0.773053561568194
+United States,USA,External balance on goods and services (current LCU),NE.RSB.GNFS.CN,1960,4200000000.0
+United States,USA,External balance on goods and services (current US$),NE.RSB.GNFS.CD,1960,4200000000.0
+United States,USA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1960,3.654
+United States,USA,Final consumption expenditure (current LCU),NE.CON.TOTL.CN,1960,416600000000.0
+United States,USA,Final consumption expenditure (current US$),NE.CON.TOTL.CD,1960,416600000000.0
+United States,USA,"Final consumption expenditure, etc. (% of GDP)",NE.CON.TETC.ZS,1960,76.697956929873
+United States,USA,"Final consumption expenditure, etc. (current LCU)",NE.CON.TETC.CN,1960,416700000000.0
+United States,USA,"Final consumption expenditure, etc. (current US$)",NE.CON.TETC.CD,1960,416700000000.0
+United States,USA,Fixed telephone subscriptions,IT.MLT.MAIN,1960,49269000.0
+United States,USA,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1960,26.4372717012485
+United States,USA,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,1960,95.5256695527392
+United States,USA,GDP (constant LCU),NY.GDP.MKTP.KN,1960,3078071080474.67
+United States,USA,GDP (current LCU),NY.GDP.MKTP.CN,1960,543300000000.0
+United States,USA,GDP at market prices (constant 2005 US$),NY.GDP.MKTP.KD,1960,2797276293637.77
+United States,USA,GDP at market prices (current US$),NY.GDP.MKTP.CD,1960,543300000000.0
+United States,USA,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,1960,17.650664516695198
+United States,USA,GDP per capita (constant 2005 US$),NY.GDP.PCAP.KD,1960,15482.707759617
+United States,USA,GDP per capita (constant LCU),NY.GDP.PCAP.KN,1960,17036.8851695882
+United States,USA,GDP per capita (current LCU),NY.GDP.PCAP.CN,1960,3007.12344537862
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1960,3007.12344537862
+United States,USA,General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,1960,15.645131603165801
+United States,USA,General government final consumption expenditure (current LCU),NE.CON.GOVT.CN,1960,85000000000.0
+United States,USA,General government final consumption expenditure (current US$),NE.CON.GOVT.CD,1960,85000000000.0
+United States,USA,GNI (current LCU),NY.GNP.MKTP.CN,1960,546400000000.0
+United States,USA,GNI (current US$),NY.GNP.MKTP.CD,1960,546400000000.0
+United States,USA,GNI per capita (current LCU),NY.GNP.PCAP.CN,1960,3024.2817054203497
+United States,USA,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,1960,22.5289895085588
+United States,USA,Gross capital formation (current LCU),NE.GDI.TOTL.CN,1960,122400000000.0
+United States,USA,Gross capital formation (current US$),NE.GDI.TOTL.CD,1960,122400000000.0
+United States,USA,Gross domestic income (constant 2005 US$),NY.GDY.TOTL.KD,1960,2576300000000.0
+United States,USA,Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,1960,23.302043070127002
+United States,USA,Gross domestic savings (current LCU),NY.GDS.TOTL.CN,1960,126600000000.0
+United States,USA,Gross domestic savings (current US$),NY.GDS.TOTL.CD,1960,126600000000.0
+United States,USA,Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,1960,21.939996318792602
+United States,USA,Gross fixed capital formation (constant 2005 US$),NE.GDI.FTOT.KD,1960,418263557455.981
+United States,USA,Gross fixed capital formation (constant LCU),NE.GDI.FTOT.KN,1960,447316963844.29297
+United States,USA,Gross fixed capital formation (current LCU),NE.GDI.FTOT.CN,1960,119200000000.0
+United States,USA,Gross fixed capital formation (current US$),NE.GDI.FTOT.CD,1960,119200000000.0
+United States,USA,"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,1960,15.3138229339223
+United States,USA,"Gross fixed capital formation, private sector (current LCU)",NE.GDI.FPRV.CN,1960,83200000000.0
+United States,USA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,1960,99.2269464384318
+United States,USA,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,1960,539100000000.0
+United States,USA,Gross national expenditure (current US$),NE.DAB.TOTL.CD,1960,539100000000.0
+United States,USA,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,1960,9.19999980926514
+United States,USA,Household final consumption expenditure (current LCU),NE.CON.PRVT.CN,1960,331600000000.0
+United States,USA,Household final consumption expenditure (current US$),NE.CON.PRVT.CD,1960,331600000000.0
+United States,USA,"Household final consumption expenditure, etc. (% of GDP)",NE.CON.PETC.ZS,1960,61.0528253267072
+United States,USA,"Household final consumption expenditure, etc. (current LCU)",NE.CON.PETC.CN,1960,331700000000.0
+United States,USA,"Household final consumption expenditure, etc. (current US$)",NE.CON.PETC.CD,1960,331700000000.0
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,1960,4.19657647708448
+United States,USA,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,1960,22800000000.0
+United States,USA,Imports of goods and services (current US$),NE.IMP.GNFS.CD,1960,22800000000.0
+United States,USA,International migrant stock (% of population),SM.POP.TOTL.ZS,1960,5.99188524998478
+United States,USA,"International migrant stock, total",SM.POP.TOTL,1960,10825599.0
+United States,USA,Lending interest rate (%),FR.INR.LEND,1960,4.82083333333333
+United States,USA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,1960,73.1
+United States,USA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,1960,66.6
+United States,USA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1960,69.77073170731711
+United States,USA,Merchandise exports (current US$),TX.VAL.MRCH.CD.WT,1960,20601000000.0
+United States,USA,Merchandise exports by the reporting economy (current US$),TX.VAL.MRCH.WL.CD,1960,20536000000.0
+United States,USA,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",TX.VAL.MRCH.RS.ZS,1960,4.494546162836
+United States,USA,Merchandise exports to developing economies in East Asia & Pacific (% of total merchandise exports),TX.VAL.MRCH.R1.ZS,1960,2.85352551616673
+United States,USA,Merchandise exports to developing economies in Latin America & the Caribbean (% of total merchandise exports),TX.VAL.MRCH.R3.ZS,1960,12.017919750681699
+United States,USA,Merchandise exports to developing economies in Middle East & North Africa (% of total merchandise exports),TX.VAL.MRCH.R4.ZS,1960,2.80970003895598
+United States,USA,Merchandise exports to developing economies in South Asia (% of total merchandise exports),TX.VAL.MRCH.R5.ZS,1960,4.07576938059992
+United States,USA,Merchandise exports to developing economies in Sub-Saharan Africa (% of total merchandise exports),TX.VAL.MRCH.R6.ZS,1960,2.15718737826256
+United States,USA,Merchandise exports to developing economies outside region (% of total merchandise exports),TX.VAL.MRCH.OR.ZS,1960,24.785742111414102
+United States,USA,Merchandise exports to economies in the Arab World (% of total merchandise exports),TX.VAL.MRCH.AL.ZS,1960,2.55161667315933
+United States,USA,Merchandise exports to high-income economies (% of total merchandise exports),TX.VAL.MRCH.HI.ZS,1960,70.7197117257499
+United States,USA,Merchandise imports (current US$),TM.VAL.MRCH.CD.WT,1960,16381300000.0
+United States,USA,Merchandise imports by the reporting economy (current US$),TM.VAL.MRCH.WL.CD,1960,16170700000.0
+United States,USA,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",TM.VAL.MRCH.RS.ZS,1960,5.48893987273278
+United States,USA,Merchandise imports from developing economies in East Asia & Pacific (% of total merchandise imports),TM.VAL.MRCH.R1.ZS,1960,3.9763275553934
+United States,USA,Merchandise imports from developing economies in Latin America & the Caribbean (% of total merchandise imports),TM.VAL.MRCH.R3.ZS,1960,16.1291718973205
+United States,USA,Merchandise imports from developing economies in Middle East & North Africa (% of total merchandise imports),TM.VAL.MRCH.R4.ZS,1960,0.884315459442077
+United States,USA,Merchandise imports from developing economies in South Asia (% of total merchandise imports),TM.VAL.MRCH.R5.ZS,1960,2.1891445639335303
+United States,USA,Merchandise imports from developing economies in Sub-Saharan Africa (% of total merchandise imports),TM.VAL.MRCH.R6.ZS,1960,3.2651647733245897
+United States,USA,Merchandise imports from developing economies outside region (% of total merchandise imports),TM.VAL.MRCH.OR.ZS,1960,26.864637894463396
+United States,USA,Merchandise imports from economies in the Arab World (% of total merchandise imports),TM.VAL.MRCH.AL.ZS,1960,1.7624468946922498
+United States,USA,Merchandise imports from high-income economies (% of total merchandise imports),TM.VAL.MRCH.HI.ZS,1960,67.64642223280379
+United States,USA,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,1960,6.8069758880913
+United States,USA,Mobile cellular subscriptions,IT.CEL.SETS,1960,0.0
+United States,USA,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1960,0.0
+United States,USA,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,1960,130.636
+United States,USA,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,1960,233.283
+United States,USA,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1960,25.9
+United States,USA,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,1960,30.1
+United States,USA,Net current transfers from abroad (constant LCU),NY.TRF.NCTR.KN,1960,-3230369875.0893803
+United States,USA,Net current transfers from abroad (current LCU),NY.TRF.NCTR.CN,1960,-4129019648.0
+United States,USA,Net current transfers from abroad (current US$),NY.TRF.NCTR.CD,1960,-4129019648.0
+United States,USA,Net income from abroad (constant LCU),NY.GSR.NFCY.KN,1960,-24006581511.2702
+United States,USA,Net income from abroad (current LCU),NY.GSR.NFCY.CN,1960,-3100000000.00002
+United States,USA,Net income from abroad (current US$),NY.GSR.NFCY.CD,1960,-3100000000.00002
+United States,USA,Number of infant deaths,SH.DTH.IMRT,1960,113354.0
+United States,USA,Number of under-five deaths,SH.DTH.MORT,1960,131153.0
+United States,USA,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,1960,1.0
+United States,USA,"Patent applications, nonresidents",IP.PAT.NRES,1960,16631.0
+United States,USA,"Patent applications, residents",IP.PAT.RESD,1960,63090.0
+United States,USA,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,1960,1.1
+United States,USA,Population ages 65 and above (% of total),SP.POP.65UP.TO.ZS,1960,9.145940978036519
+United States,USA,Population growth (annual %),SP.POP.GROW,1960,1.70199277744096
+United States,USA,Population in largest city,EN.URB.LCTY,1960,14163521.0
+United States,USA,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,1960,11.1997817724156
+United States,USA,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1960,69978587.0
+United States,USA,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,1960,38.732606229001895
+United States,USA,"Population, ages 0-14 (% of total)",SP.POP.0014.TO.ZS,1960,30.80295934626
+United States,USA,"Population, ages 15-64 (% of total)",SP.POP.1564.TO.ZS,1960,60.0510996757035
+United States,USA,"Population, female (% of total)",SP.POP.TOTL.FE.ZS,1960,50.4122598185365
+United States,USA,"Population, total",SP.POP.TOTL,1960,180671000.0
+United States,USA,"Risk premium on lending (lending rate minus treasury bill rate, %)",FR.INR.RISK,1960,1.87416666666666
+United States,USA,Rural population,SP.RUR.TOTL,1960,54208527.0
+United States,USA,Rural population (% of total population),SP.RUR.TOTL.ZS,1960,30.004
+United States,USA,Rural population growth (annual %),SP.RUR.TOTL.ZG,1960,-0.0195374527151411
+United States,USA,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,1960,78.24575
+United States,USA,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,1960,63.9599
+United States,USA,"Total reserves (includes gold, current US$)",FI.RES.TOTL.CD,1960,19664163997.9365
+United States,USA,Total reserves minus gold (current US$),FI.RES.XGLD.CD,1960,1554799998.4452
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,1960,9.16620651573716
+United States,USA,"Trademark applications, total",IP.TMK.TOTL,1960,22781.0
+United States,USA,Urban population,SP.URB.TOTL,1960,126462473.0
+United States,USA,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,69.99600000000001
+United States,USA,Urban population growth (annual %),SP.URB.GROW,1960,2.4491044645664
+United States,USA,Wholesale price index (2010 = 100),FP.WPI.TOTL,1960,17.154261850256802
+United States,USA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1961,82.7346
+United States,USA,Age dependency ratio (% of working-age population),SP.POP.DPND,1961,67.0616611970466
+United States,USA,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,1961,15.421148979993598
+United States,USA,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,1961,51.6405122170531
+United States,USA,Agricultural land (% of land area),AG.LND.AGRI.ZS,1961,48.860241774175215
+United States,USA,Agricultural land (sq. km),AG.LND.AGRI.K2,1961,4475090.0
+United States,USA,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1961,4690000.0
+United States,USA,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1961,259.64679178431
+United States,USA,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1961,1.33475774086046
+United States,USA,Arable land (% of land area),AG.LND.ARBL.ZS,1961,19.7216714561479
+United States,USA,Arable land (hectares per person),AG.LND.ARBL.HA.PC,1961,0.98333614602784
+United States,USA,Arable land (hectares),AG.LND.ARBL.HA,1961,180630000.0
+United States,USA,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1961,6376000000.0
+United States,USA,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1961,238000000.0
+United States,USA,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,1961,23.3
+United States,USA,Cereal production (metric tons),AG.PRD.CREL.MT,1961,163619978.0
+United States,USA,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1961,2522.292
+United States,USA,Changes in inventories (current LCU),NE.GDI.STKB.CN,1961,3000000000.0
+United States,USA,Changes in inventories (current US$),NE.GDI.STKB.CD,1961,3000000000.0
+United States,USA,CO2 emissions (kg per 2005 US$ of GDP),EN.ATM.CO2E.KD.GD,1961,1.00660182013711
+United States,USA,CO2 emissions (kt),EN.ATM.CO2E.KT,1961,2880505.5069999998
+United States,USA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1961,15.6812555160569
+United States,USA,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,1961,28.0588818656982
+United States,USA,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1961,22.111948630272106
+United States,USA,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1961,636935.8979999999
+United States,USA,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,1961,45.074670187047786
+United States,USA,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1961,1298378.357
+United States,USA,CO2 emissions from manufacturing industries and construction (% of total fuel combustion),EN.CO2.MANF.ZS,1961,26.4075497534825
+United States,USA,"CO2 emissions from other sectors, excluding residential buildings and commercial and public services (% of total fuel combustion)",EN.CO2.OTHX.ZS,1961,1.87190970788468
+United States,USA,CO2 emissions from residential buildings and commercial and public services (% of total fuel combustion),EN.CO2.BLDG.ZS,1961,19.6716393679834
+United States,USA,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1961,30.8338032974293
+United States,USA,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1961,888169.402
+United States,USA,CO2 emissions from transport (% of total fuel combustion),EN.CO2.TRAN.ZS,1961,23.9903722291042
+United States,USA,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1961,2.7941969652166896
+United States,USA,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1961,3.07963937158922
+United States,USA,Consumer price index (2010 = 100),FP.CPI.TOTL,1961,13.718091436813
+United States,USA,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,1961,43.58
+United States,USA,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,1961,9.3
+United States,USA,DEC alternative conversion factor (LCU per US$),PA.NUS.ATLS,1961,1.0
+United States,USA,Discrepancy in expenditure estimate of GDP (current LCU),NY.GDP.DISC.CN,1961,-100000000.0
+United States,USA,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1961,4182.1755012493795
+United States,USA,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,1961,8.837363191895529
+United States,USA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,1961,53.7305350452496
+United States,USA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,1961,18.2712311420234
+United States,USA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,1961,21.5215393916889
+United States,USA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,1961,0.215179689322422
+United States,USA,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1961,6.23997295972046
+United States,USA,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,1961,81.492047396659
+United States,USA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1961,0.0215417719952203
+United States,USA,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1961,181000000.0
+United States,USA,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,1961,5.5788579679717385
+United States,USA,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1961,5612.07950307854
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,1961,4.8996982069945005
+United States,USA,Exports of goods and services (current LCU),NE.EXP.GNFS.CN,1961,27600000000.0
+United States,USA,Exports of goods and services (current US$),NE.EXP.GNFS.CD,1961,27600000000.0
+United States,USA,External balance on goods and services (% of GDP),NE.RSB.GNFS.ZS,1961,0.8698739570388779
+United States,USA,External balance on goods and services (current LCU),NE.RSB.GNFS.CN,1961,4900000000.0
+United States,USA,External balance on goods and services (current US$),NE.RSB.GNFS.CD,1961,4900000000.0
+United States,USA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1961,3.62
+United States,USA,Final consumption expenditure (current LCU),NE.CON.TOTL.CN,1961,431900000000.0
+United States,USA,Final consumption expenditure (current US$),NE.CON.TOTL.CD,1961,431900000000.0
+United States,USA,"Final consumption expenditure, etc. (% of GDP)",NE.CON.TETC.ZS,1961,76.65542339783421
+United States,USA,"Final consumption expenditure, etc. (current LCU)",NE.CON.TETC.CN,1961,431800000000.0
+United States,USA,"Final consumption expenditure, etc. (current US$)",NE.CON.TETC.CD,1961,431800000000.0
+United States,USA,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,1961,45.58
+United States,USA,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,1961,95.5667993020266
+United States,USA,GDP (constant LCU),NY.GDP.MKTP.KN,1961,3148866715325.58
+United States,USA,GDP (current LCU),NY.GDP.MKTP.CN,1961,563300000000.0
+United States,USA,GDP at market prices (constant 2005 US$),NY.GDP.MKTP.KD,1961,2861613648391.43
+United States,USA,GDP at market prices (current US$),NY.GDP.MKTP.CD,1961,563300000000.0
+United States,USA,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,1961,17.8889756514117
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1961,2.29999999999977
+United States,USA,GDP per capita (constant 2005 US$),NY.GDP.PCAP.KD,1961,15578.409657476
+United States,USA,GDP per capita (constant LCU),NY.GDP.PCAP.KN,1961,17142.1937673897
+United States,USA,GDP per capita (current LCU),NY.GDP.PCAP.CN,1961,3066.56286916615
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1961,3066.56286916615
+United States,USA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,1961,0.618121192654826
+United States,USA,General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,1961,15.9595242322031
+United States,USA,General government final consumption expenditure (current LCU),NE.CON.GOVT.CN,1961,89900000000.0
+United States,USA,General government final consumption expenditure (current US$),NE.CON.GOVT.CD,1961,89900000000.0
+United States,USA,GNI (current LCU),NY.GNP.MKTP.CN,1961,566800000000.0
+United States,USA,GNI (current US$),NY.GNP.MKTP.CD,1961,566800000000.0
+United States,USA,GNI per capita (current LCU),NY.GNP.PCAP.CN,1961,3085.6166061483696
+United States,USA,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,1961,22.4747026451269
+United States,USA,Gross capital formation (current LCU),NE.GDI.TOTL.CN,1961,126600000000.0
+United States,USA,Gross capital formation (current US$),NE.GDI.TOTL.CD,1961,126600000000.0
+United States,USA,Gross domestic income (constant 2005 US$),NY.GDY.TOTL.KD,1961,2646300000000.0
+United States,USA,Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,1961,23.344576602165798
+United States,USA,Gross domestic savings (current LCU),NY.GDS.TOTL.CN,1961,131500000000.0
+United States,USA,Gross domestic savings (current US$),NY.GDS.TOTL.CD,1961,131500000000.0
+United States,USA,Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,1961,21.9421267530623
+United States,USA,Gross fixed capital formation (annual % growth),NE.GDI.FTOT.KD.ZG,1961,1.26096025756188
+United States,USA,Gross fixed capital formation (constant 2005 US$),NE.GDI.FTOT.KD,1961,423537694687.365
+United States,USA,Gross fixed capital formation (constant LCU),NE.GDI.FTOT.KN,1961,452957452983.702
+United States,USA,Gross fixed capital formation (current LCU),NE.GDI.FTOT.CN,1961,123600000000.0
+United States,USA,Gross fixed capital formation (current US$),NE.GDI.FTOT.CD,1961,123600000000.0
+United States,USA,"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,1961,14.8411148588674
+United States,USA,"Gross fixed capital formation, private sector (current LCU)",NE.GDI.FPRV.CN,1961,83600000000.0
+United States,USA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,1961,99.1301260429611
+United States,USA,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,1961,558400000000.0
+United States,USA,Gross national expenditure (current US$),NE.DAB.TOTL.CD,1961,558400000000.0
+United States,USA,Household final consumption expenditure (current LCU),NE.CON.PRVT.CN,1961,342000000000.0
+United States,USA,Household final consumption expenditure (current US$),NE.CON.PRVT.CD,1961,342000000000.0
+United States,USA,"Household final consumption expenditure, etc. (% of GDP)",NE.CON.PETC.ZS,1961,60.695899165631104
+United States,USA,"Household final consumption expenditure, etc. (current LCU)",NE.CON.PETC.CN,1961,341900000000.0
+United States,USA,"Household final consumption expenditure, etc. (current US$)",NE.CON.PETC.CD,1961,341900000000.0
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,1961,4.02982424995562
+United States,USA,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,1961,22700000000.0
+United States,USA,Imports of goods and services (current US$),NE.IMP.GNFS.CD,1961,22700000000.0
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1961,1.07518189135536
+United States,USA,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,1961,1.3501538964215702
+United States,USA,Land area (sq. km),AG.LND.TOTL.K2,1961,9158960.0
+United States,USA,Land under cereal production (hectares),AG.LND.CREL.HA,1961,64869558.0
+United States,USA,Lending interest rate (%),FR.INR.LEND,1961,4.5
+United States,USA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,1961,73.6
+United States,USA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,1961,67.1
+United States,USA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1961,70.27073170731711
+United States,USA,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,1961,55.31
+United States,USA,Merchandise exports (current US$),TX.VAL.MRCH.CD.WT,1961,21037000000.0
+United States,USA,Merchandise exports by the reporting economy (current US$),TX.VAL.MRCH.WL.CD,1961,20960000000.0
+United States,USA,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",TX.VAL.MRCH.RS.ZS,1961,4.699427480916031
+United States,USA,Merchandise exports to developing economies in East Asia & Pacific (% of total merchandise exports),TX.VAL.MRCH.R1.ZS,1961,3.75
+United States,USA,Merchandise exports to developing economies in Latin America & the Caribbean (% of total merchandise exports),TX.VAL.MRCH.R3.ZS,1961,11.3215648854962
+United States,USA,Merchandise exports to developing economies in Middle East & North Africa (% of total merchandise exports),TX.VAL.MRCH.R4.ZS,1961,2.8864503816793903
+United States,USA,Merchandise exports to developing economies in South Asia (% of total merchandise exports),TX.VAL.MRCH.R5.ZS,1961,3.3969465648855
+United States,USA,Merchandise exports to developing economies in Sub-Saharan Africa (% of total merchandise exports),TX.VAL.MRCH.R6.ZS,1961,2.0181297709923705
+United States,USA,Merchandise exports to developing economies outside region (% of total merchandise exports),TX.VAL.MRCH.OR.ZS,1961,24.3463740458015
+United States,USA,Merchandise exports to economies in the Arab World (% of total merchandise exports),TX.VAL.MRCH.AL.ZS,1961,3.0200381679389303
+United States,USA,Merchandise exports to high-income economies (% of total merchandise exports),TX.VAL.MRCH.HI.ZS,1961,70.9541984732824
+United States,USA,Merchandise imports (current US$),TM.VAL.MRCH.CD.WT,1961,15952200000.0
+United States,USA,Merchandise imports by the reporting economy (current US$),TM.VAL.MRCH.WL.CD,1961,15738600000.0
+United States,USA,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",TM.VAL.MRCH.RS.ZS,1961,5.74256922470868
+United States,USA,Merchandise imports from developing economies in East Asia & Pacific (% of total merchandise imports),TM.VAL.MRCH.R1.ZS,1961,3.62166901757463
+United States,USA,Merchandise imports from developing economies in Latin America & the Caribbean (% of total merchandise imports),TM.VAL.MRCH.R3.ZS,1961,14.7408282820581
+United States,USA,Merchandise imports from developing economies in Middle East & North Africa (% of total merchandise imports),TM.VAL.MRCH.R4.ZS,1961,1.00390123645051
+United States,USA,Merchandise imports from developing economies in South Asia (% of total merchandise imports),TM.VAL.MRCH.R5.ZS,1961,2.27593305630742
+United States,USA,Merchandise imports from developing economies in Sub-Saharan Africa (% of total merchandise imports),TM.VAL.MRCH.R6.ZS,1961,3.5009467169888
+United States,USA,Merchandise imports from developing economies outside region (% of total merchandise imports),TM.VAL.MRCH.OR.ZS,1961,25.6642903434867
+United States,USA,Merchandise imports from economies in the Arab World (% of total merchandise imports),TM.VAL.MRCH.AL.ZS,1961,1.7600040664353898
+United States,USA,Merchandise imports from high-income economies (% of total merchandise imports),TM.VAL.MRCH.HI.ZS,1961,68.5931404318046
+United States,USA,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,1961,6.566518728918871
+United States,USA,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,1961,126.59100000000001
+United States,USA,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,1961,226.66
+United States,USA,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1961,25.4
+United States,USA,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,1961,29.5
+United States,USA,Net current transfers from abroad (constant LCU),NY.TRF.NCTR.KN,1961,-1737821117.4154198
+United States,USA,Net current transfers from abroad (current LCU),NY.TRF.NCTR.CN,1961,-4206697472.0
+United States,USA,Net current transfers from abroad (current US$),NY.TRF.NCTR.CD,1961,-4206697472.0
+United States,USA,Net income from abroad (constant LCU),NY.GSR.NFCY.KN,1961,-12914664858.9538
+United States,USA,Net income from abroad (current LCU),NY.GSR.NFCY.CN,1961,-3500000000.0
+United States,USA,Net income from abroad (current US$),NY.GSR.NFCY.CD,1961,-3500000000.0
+United States,USA,Number of infant deaths,SH.DTH.IMRT,1961,109804.0
+United States,USA,Number of under-five deaths,SH.DTH.MORT,1961,127437.0
+United States,USA,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,1961,1.0
+United States,USA,"Patent applications, nonresidents",IP.PAT.NRES,1961,17061.0
+United States,USA,"Patent applications, residents",IP.PAT.RESD,1961,66335.0
+United States,USA,Permanent cropland (% of land area),AG.LND.CROP.ZS,1961,0.20515429699441895
+United States,USA,Population ages 65 and above (% of total),SP.POP.65UP.TO.ZS,1961,9.230812835290509
+United States,USA,Population density (people per sq. km of land area),EN.POP.DNST,1961,20.0558797068663
+United States,USA,Population growth (annual %),SP.POP.GROW,1961,1.6577300373895298
+United States,USA,Population in largest city,EN.URB.LCTY,1961,14360388.0
+United States,USA,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,1961,11.108298614714196
+United States,USA,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1961,71357652.0
+United States,USA,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,1961,38.8465695107545
+United States,USA,"Population, ages 0-14 (% of total)",SP.POP.0014.TO.ZS,1961,30.911049206197802
+United States,USA,"Population, ages 15-64 (% of total)",SP.POP.1564.TO.ZS,1961,59.858137958511705
+United States,USA,"Population, female (% of total)",SP.POP.TOTL.FE.ZS,1961,50.437271412003405
+United States,USA,"Population, total",SP.POP.TOTL,1961,183691000.0
+United States,USA,Real interest rate (%),FR.INR.RINR,1961,3.10788487484442
+United States,USA,"Risk premium on lending (lending rate minus treasury bill rate, %)",FR.INR.RISK,1961,2.1241666666666696
+United States,USA,Rural population,SP.RUR.TOTL,1961,54414785.0
+United States,USA,Rural population (% of total population),SP.RUR.TOTL.ZS,1961,29.623
+United States,USA,Rural population growth (annual %),SP.RUR.TOTL.ZG,1961,0.37976792291879496
+United States,USA,Surface area (sq. km),AG.SRF.TOTL.K2,1961,9629090.0
+United States,USA,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,1961,78.39786
+United States,USA,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,1961,64.00235
+United States,USA,"Total reserves (includes gold, current US$)",FI.RES.TOTL.CD,1961,18825529998.3101
+United States,USA,Total reserves minus gold (current US$),FI.RES.XGLD.CD,1961,1805899998.3101
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,1961,8.929522456950119
+United States,USA,"Trademark applications, total",IP.TMK.TOTL,1961,23782.0
+United States,USA,Urban population,SP.URB.TOTL,1961,129276215.0
+United States,USA,Urban population (% of total),SP.URB.TOTL.IN.ZS,1961,70.377
+United States,USA,Urban population growth (annual %),SP.URB.GROW,1961,2.20057087771013
+United States,USA,Wholesale price index (2010 = 100),FP.WPI.TOTL,1961,17.093986861278697
+United States,USA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,1962,80.482
+United States,USA,Age dependency ratio (% of working-age population),SP.POP.DPND,1962,67.1347675992762
+United States,USA,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,1962,15.5642573765381
+United States,USA,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,1962,51.5705102227382
+United States,USA,Agricultural land (% of land area),AG.LND.AGRI.ZS,1962,48.476137028658286
+United States,USA,Agricultural land (sq. km),AG.LND.AGRI.K2,1962,4439910.0
+United States,USA,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1962,4730000.0
+United States,USA,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1962,267.08828594822
+United States,USA,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1962,6.243386480045579
+United States,USA,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1962,10.2596413782073
+United States,USA,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1962,1.43006193185308
+United States,USA,Arable land (% of land area),AG.LND.ARBL.ZS,1962,19.3357106046975
+United States,USA,Arable land (hectares per person),AG.LND.ARBL.HA.PC,1962,0.949377606707481
+United States,USA,Arable land (hectares),AG.LND.ARBL.HA,1962,177095000.0
+United States,USA,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1962,5725000000.0
+United States,USA,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1962,264000000.0
+United States,USA,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1962,715.0
+United States,USA,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,1962,22.4
+United States,USA,Cereal production (metric tons),AG.PRD.CREL.MT,1962,162455780.0
+United States,USA,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1962,2683.09
+United States,USA,Changes in inventories (current LCU),NE.GDI.STKB.CN,1962,6100000000.0
+United States,USA,Changes in inventories (current US$),NE.GDI.STKB.CD,1962,6100000000.0
+United States,USA,CO2 emissions (kg per 2005 US$ of GDP),EN.ATM.CO2E.KD.GD,1962,0.983873045849201
+United States,USA,CO2 emissions (kt),EN.ATM.CO2E.KT,1962,2987207.873
+United States,USA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1962,16.0139374979897
+United States,USA,"CO2 emissions from electricity and heat production, total (% of total fuel combustion)",EN.CO2.ETOT.ZS,1962,28.3477766150908
+United States,USA,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1962,22.6606548582834
+United States,USA,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1962,676920.8659999999
+United States,USA,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,1962,44.718696715888
+United States,USA,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1962,1335840.429
+United States,USA,CO2 emissions from manufacturing industries and construction (% of total fuel combustion),EN.CO2.MANF.ZS,1962,25.9369507573833
+United States,USA,"CO2 emissions from other sectors, excluding residential buildings and commercial and public services (% of total fuel combustion)",EN.CO2.OTHX.ZS,1962,1.80938931840579
+United States,USA,CO2 emissions from residential buildings and commercial and public services (% of total fuel combustion),EN.CO2.BLDG.ZS,1962,19.8179435340492
+United States,USA,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1962,30.8506185100028
+United States,USA,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1962,921572.105
+United States,USA,CO2 emissions from transport (% of total fuel combustion),EN.CO2.TRAN.ZS,1962,24.088278421770898
+United States,USA,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1962,2.77317484315724
+United States,USA,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1962,2.9601446789873
+United States,USA,Consumer price index (2010 = 100),FP.CPI.TOTL,1962,13.8711951358863
+United States,USA,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,1962,43.98
+United States,USA,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,1962,9.5
+United States,USA,DEC alternative conversion factor (LCU per US$),PA.NUS.ATLS,1962,1.0
+United States,USA,Discrepancy in expenditure estimate of GDP (current LCU),NY.GDP.DISC.CN,1962,0.0
+United States,USA,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1962,4433.60602129325
+United States,USA,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,1962,8.57664960244946
+United States,USA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,1962,53.2502024255671
+United States,USA,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,1962,18.8808852744802
+United States,USA,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,1962,21.777893800689398
+United States,USA,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,1962,0.268683990460557
+United States,USA,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1962,5.79954780561836
+United States,USA,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,1962,80.8276440318748
+United States,USA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1962,0.0227867031843865
+United States,USA,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1962,206000000.0
+United States,USA,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,1962,5.82595283059258
+United States,USA,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1962,5774.58631485274
+United States,USA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,1962,4.8091224590976696
+United States,USA,Exports of goods and services (current LCU),NE.EXP.GNFS.CN,1962,29100000000.0
+United States,USA,Exports of goods and services (current US$),NE.EXP.GNFS.CD,1962,29100000000.0
+United States,USA,External balance on goods and services (% of GDP),NE.RSB.GNFS.ZS,1962,0.677573954718228
+United States,USA,External balance on goods and services (current LCU),NE.RSB.GNFS.CN,1962,4100000000.0
+United States,USA,External balance on goods and services (current US$),NE.RSB.GNFS.CD,1962,4100000000.0
+United States,USA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1962,3.4610000000000003
+United States,USA,Final consumption expenditure (current LCU),NE.CON.TOTL.CN,1962,461400000000.0
+United States,USA,Final consumption expenditure (current US$),NE.CON.TOTL.CD,1962,461400000000.0
+United States,USA,"Final consumption expenditure, etc. (% of GDP)",NE.CON.TETC.ZS,1962,76.251859196827
+United States,USA,"Final consumption expenditure, etc. (current LCU)",NE.CON.TETC.CN,1962,461400000000.0
+United States,USA,"Final consumption expenditure, etc. (current US$)",NE.CON.TETC.CD,1962,461400000000.0
+United States,USA,Food exports (% of merchandise exports),TX.VAL.FOOD.ZS.UN,1962,20.684597720480607
+United States,USA,Food imports (% of merchandise imports),TM.VAL.FOOD.ZS.UN,1962,23.552941225205107
+United States,USA,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,1962,45.95
+United States,USA,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,1962,95.6055139735254
+United States,USA,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1962,3.751838225423661
+United States,USA,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1962,11.254096623536501
+United States,USA,GDP (constant LCU),NY.GDP.MKTP.KN,1962,3340947584960.44
+United States,USA,GDP (current LCU),NY.GDP.MKTP.CN,1962,605100000000.0
+United States,USA,GDP at market prices (constant 2005 US$),NY.GDP.MKTP.KD,1962,3036172080943.31
+United States,USA,GDP at market prices (current US$),NY.GDP.MKTP.CD,1962,605100000000.0
+United States,USA,GDP deflator (base year varies by country),NY.GDP.DEFL.ZS,1962,18.1116280519907
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1962,6.099999999999992
+United States,USA,GDP per capita (constant 2005 US$),NY.GDP.PCAP.KD,1962,16276.4266848755
+United States,USA,GDP per capita (constant LCU),NY.GDP.PCAP.KN,1962,17910.278790168402
+United States,USA,GDP per capita (current LCU),NY.GDP.PCAP.CN,1962,3243.8430775498805
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,1962,3243.8430775498805
+United States,USA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,1962,4.4806693542334415
+United States,USA,General government final consumption expenditure (% of GDP),NE.CON.GOVT.ZS,1962,16.24524871922
+United States,USA,General government final consumption expenditure (current LCU),NE.CON.GOVT.CN,1962,98300000000.0
+United States,USA,General government final consumption expenditure (current US$),NE.CON.GOVT.CD,1962,98300000000.0
+United States,USA,GNI (current LCU),NY.GNP.MKTP.CN,1962,609200000000.0
+United States,USA,GNI (current US$),NY.GNP.MKTP.CD,1962,609200000000.0
+United States,USA,GNI per capita (current LCU),NY.GNP.PCAP.CN,1962,3265.82251337529
+United States,USA,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,1962,3280.0
+United States,USA,"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,1962,612178550047.646
+United States,USA,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,1962,23.0705668484548
+United States,USA,Gross capital formation (current LCU),NE.GDI.TOTL.CN,1962,139600000000.0
+United States,USA,Gross capital formation (current US$),NE.GDI.TOTL.CD,1962,139600000000.0
+United States,USA,Gross domestic income (constant 2005 US$),NY.GDY.TOTL.KD,1962,2785200000000.0
+United States,USA,Gross domestic savings (% of GDP),NY.GDS.TOTL.ZS,1962,23.748140803172998
+United States,USA,Gross domestic savings (current LCU),NY.GDS.TOTL.CN,1962,143700000000.0
+United States,USA,Gross domestic savings (current US$),NY.GDS.TOTL.CD,1962,143700000000.0
+United States,USA,Gross fixed capital formation (% of GDP),NE.GDI.FTOT.ZS,1962,22.062469013386195
+United States,USA,Gross fixed capital formation (annual % growth),NE.GDI.FTOT.KD.ZG,1962,7.10774955314189
+United States,USA,Gross fixed capital formation (constant 2005 US$),NE.GDI.FTOT.KD,1962,453641693288.894
+United States,USA,Gross fixed capital formation (constant LCU),NE.GDI.FTOT.KN,1962,485152534324.074
+United States,USA,Gross fixed capital formation (current LCU),NE.GDI.FTOT.CN,1962,133500000000.0
+United States,USA,Gross fixed capital formation (current US$),NE.GDI.FTOT.CD,1962,133500000000.0
+United States,USA,"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,1962,15.0223103619236
+United States,USA,"Gross fixed capital formation, private sector (current LCU)",NE.GDI.FPRV.CN,1962,90900000000.0
+United States,USA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,1962,99.32242604528179
+United States,USA,Gross national expenditure (current LCU),NE.DAB.TOTL.CN,1962,601000000000.0
+United States,USA,Gross national expenditure (current US$),NE.DAB.TOTL.CD,1962,601000000000.0
+United States,USA,Household final consumption expenditure (current LCU),NE.CON.PRVT.CN,1962,363100000000.0
+United States,USA,Household final consumption expenditure (current US$),NE.CON.PRVT.CD,1962,363100000000.0
+United States,USA,"Household final consumption expenditure, etc. (% of GDP)",NE.CON.PETC.ZS,1962,60.00661047760701
+United States,USA,"Household final consumption expenditure, etc. (current LCU)",NE.CON.PETC.CN,1962,363100000000.0
+United States,USA,"Household final consumption expenditure, etc. (current US$)",NE.CON.PETC.CD,1962,363100000000.0
+United States,USA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,1962,4.13154850437944
+United States,USA,Imports of goods and services (current LCU),NE.IMP.GNFS.CN,1962,25000000000.0
+United States,USA,Imports of goods and services (current US$),NE.IMP.GNFS.CD,1962,25000000000.0
+United States,USA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1962,1.11607142858401
+United States,USA,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,1962,1.24463471200163
+United States,USA,Land area (sq. km),AG.LND.TOTL.K2,1962,9158960.0
+United States,USA,Land under cereal production (hectares),AG.LND.CREL.HA,1962,60548008.0
+United States,USA,Lending interest rate (%),FR.INR.LEND,1962,4.5
+United States,USA,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,1962,73.5
+United States,USA,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,1962,66.9
+United States,USA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1962,70.119512195122
+United States,USA,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,1962,55.48
+United States,USA,Manufactures exports (% of merchandise exports),TX.VAL.MANF.ZS.UN,1962,62.9126622509305
+United States,USA,Manufactures imports (% of merchandise imports),TM.VAL.MANF.ZS.UN,1962,39.66975850701221
+United States,USA,Merchandise exports (current US$),TX.VAL.MRCH.CD.WT,1962,21714000000.0
+United States,USA,Merchandise exports by the reporting economy (current US$),TX.VAL.MRCH.WL.CD,1962,21617000000.0
+United States,USA,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",TX.VAL.MRCH.RS.ZS,1962,4.635240782717308
+United States,USA,Merchandise exports to developing economies in East Asia & Pacific (% of total merchandise exports),TX.VAL.MRCH.R1.ZS,1962,3.543507424712029
+United States,USA,Merchandise exports to developing economies in Latin America & the Caribbean (% of total merchandise exports),TX.VAL.MRCH.R3.ZS,1962,10.8109358375353
+United States,USA,Merchandise exports to developing economies in Middle East & North Africa (% of total merchandise exports),TX.VAL.MRCH.R4.ZS,1962,3.18268029791368
+United States,USA,Merchandise exports to developing economies in South Asia (% of total merchandise exports),TX.VAL.MRCH.R5.ZS,1962,4.51959106258963
+United States,USA,Merchandise exports to developing economies in Sub-Saharan Africa (% of total merchandise exports),TX.VAL.MRCH.R6.ZS,1962,2.29911643613822
+United States,USA,Merchandise exports to developing economies outside region (% of total merchandise exports),TX.VAL.MRCH.OR.ZS,1962,25.632603969098398
+United States,USA,Merchandise exports to economies in the Arab World (% of total merchandise exports),TX.VAL.MRCH.AL.ZS,1962,3.47411759263543
+United States,USA,Merchandise exports to high-income economies (% of total merchandise exports),TX.VAL.MRCH.HI.ZS,1962,69.7321552481843
+United States,USA,Merchandise imports (current US$),TM.VAL.MRCH.CD.WT,1962,17802100000.0
+United States,USA,Merchandise imports by the reporting economy (current US$),TM.VAL.MRCH.WL.CD,1962,17522900000.0
+United States,USA,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",TM.VAL.MRCH.RS.ZS,1962,5.422618402205111
+United States,USA,Merchandise imports from developing economies in East Asia & Pacific (% of total merchandise imports),TM.VAL.MRCH.R1.ZS,1962,3.1387498644630702
+United States,USA,Merchandise imports from developing economies in Latin America & the Caribbean (% of total merchandise imports),TM.VAL.MRCH.R3.ZS,1962,14.0798612101878
+United States,USA,Merchandise imports from developing economies in Middle East & North Africa (% of total merchandise imports),TM.VAL.MRCH.R4.ZS,1962,0.8389022365019492
+United States,USA,Merchandise imports from developing economies in South Asia (% of total merchandise imports),TM.VAL.MRCH.R5.ZS,1962,2.1400567257702803
+United States,USA,Merchandise imports from developing economies in Sub-Saharan Africa (% of total merchandise imports),TM.VAL.MRCH.R6.ZS,1962,3.4526248509093795
+United States,USA,Merchandise imports from developing economies outside region (% of total merchandise imports),TM.VAL.MRCH.OR.ZS,1962,24.2037562275651
+United States,USA,Merchandise imports from economies in the Arab World (% of total merchandise imports),TM.VAL.MRCH.AL.ZS,1962,1.48947948113611
+United States,USA,Merchandise imports from high-income economies (% of total merchandise imports),TM.VAL.MRCH.HI.ZS,1962,70.3736253702298
+United States,USA,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,1962,6.530507354156341
+United States,USA,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,1962,128.62
+United States,USA,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,1962,229.805
+United States,USA,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1962,24.9
+United States,USA,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,1962,28.9
+United States,USA,Net current transfers from abroad (constant LCU),NY.TRF.NCTR.KN,1962,-155339643.999973
+United States,USA,Net current transfers from abroad (current LCU),NY.TRF.NCTR.CN,1962,-4347929088.0
+United States,USA,Net current transfers from abroad (current US$),NY.TRF.NCTR.CD,1962,-4347929088.0
+United States,USA,Net income from abroad (constant LCU),NY.GSR.NFCY.KN,1962,-1154410785.70418
+United States,USA,Net income from abroad (current LCU),NY.GSR.NFCY.CN,1962,-4100000000.000021
+United States,USA,Net income from abroad (current US$),NY.GSR.NFCY.CD,1962,-4100000000.000021
+United States,USA,Net migration,SM.POP.NETM,1962,958657.0
+United States,USA,Number of infant deaths,SH.DTH.IMRT,1962,104974.0
+United States,USA,Number of under-five deaths,SH.DTH.MORT,1962,122198.0
+United States,USA,"Official exchange rate (LCU per US$, period average)",PA.NUS.FCRF,1962,1.0
+United States,USA,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1962,3.97474148584131
+United States,USA,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1962,12.584963720864101
+United States,USA,Permanent cropland (% of land area),AG.LND.CROP.ZS,1962,0.20701040292784306
+United States,USA,Population ages 65 and above (% of total),SP.POP.65UP.TO.ZS,1962,9.31239960490086
+United States,USA,Population density (people per sq. km of land area),EN.POP.DNST,1962,20.3667228593639
+United States,USA,Population growth (annual %),SP.POP.GROW,1962,1.53799735825387
+United States,USA,Population in largest city,EN.URB.LCTY,1962,14560269.0
+United States,USA,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,1962,11.031451762311196
+United States,USA,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1962,72774562.0
+United States,USA,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,1962,39.0132637853949
+United States,USA,"Population, ages 0-14 (% of total)",SP.POP.0014.TO.ZS,1962,30.8556447018256
+United States,USA,"Population, ages 15-64 (% of total)",SP.POP.1564.TO.ZS,1962,59.8319556932735
+United States,USA,"Population, female (% of total)",SP.POP.TOTL.FE.ZS,1962,50.4622791190547
+United States,USA,"Population, total",SP.POP.TOTL,1962,186538000.0
+United States,USA,Real interest rate (%),FR.INR.RINR,1962,3.2153459758717298
+United States,USA,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,1962,15106.841501463501
+United States,USA,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,1962,2818.0
+United States,USA,"Risk premium on lending (lending rate minus treasury bill rate, %)",FR.INR.RISK,1962,1.7216666666666698
+United States,USA,Rural population,SP.RUR.TOTL,1962,54549307.0
+United States,USA,Rural population (% of total population),SP.RUR.TOTL.ZS,1962,29.243000000000002
+United States,USA,Rural population growth (annual %),SP.RUR.TOTL.ZG,1962,0.246910823324667
+United States,USA,Surface area (sq. km),AG.SRF.TOTL.K2,1962,9629090.0
+United States,USA,"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,1962,78.54997
+United States,USA,"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,1962,64.04479
+United States,USA,"Total reserves (includes gold, current US$)",FI.RES.TOTL.CD,1962,17252463898.4768
+United States,USA,Total reserves minus gold (current US$),FI.RES.XGLD.CD,1962,1163399998.9356
+United States,USA,Trade (% of GDP),NE.TRD.GNFS.ZS,1962,8.94067096347711
+United States,USA,"Trademark applications, total",IP.TMK.TOTL,1962,25130.0
+United States,USA,Urban population,SP.URB.TOTL,1962,131988693.0
+United States,USA,Urban population (% of total),SP.URB.TOTL.IN.ZS,1962,70.757
+United States,USA,Urban population growth (annual %),SP.URB.GROW,1962,2.0764943019451203
+United States,USA,Wholesale price index (2010 = 100),FP.WPI.TOTL,1962,17.1346724788385
